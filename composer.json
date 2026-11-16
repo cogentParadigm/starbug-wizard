@@ -1,0 +1,20 @@
+{
+  "name": "starbug/wizard",
+  "type": "starbug-module",
+  "description": "Starbug form wizard module.",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Ali Gangji",
+      "homepage": "https://github.com/cogentParadigm"
+    }
+  ],
+  "extra": {
+    "namespace": "Starbug\\Wizard"
+  },
+  "require": {
+    "starbug/db": "^0.12",
+    "starbug/display": "^0.9",
+    "starbug/routing": "^1.0"
+  }
+}
